@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Free Chicken Sprites.png-d172df76504c1c2f95a97aec7786ed9d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://Sprites/Sprout Lands - Sprites - Basic pack/Characters/Free Chicken Sprites.png"
+dest_files=[ "res://.import/Free Chicken Sprites.png-d172df76504c1c2f95a97aec7786ed9d.stex" ]
 
 [params]
 

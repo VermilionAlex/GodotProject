@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Square Buttons 26x19.png-39364d1eed177a18cc2df01cbe03ff16.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://UI/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x19.png"
+dest_files=[ "res://.import/Square Buttons 26x19.png-39364d1eed177a18cc2df01cbe03ff16.stex" ]
 
 [params]
 

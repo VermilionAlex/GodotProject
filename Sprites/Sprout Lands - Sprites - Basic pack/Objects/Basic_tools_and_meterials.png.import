@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Basic_tools_and_meterials.png-5796fd9a6dfe1753c8b92c94a020710e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://Sprites/Sprout Lands - Sprites - Basic pack/Objects/Basic_tools_and_meterials.png"
+dest_files=[ "res://.import/Basic_tools_and_meterials.png-5796fd9a6dfe1753c8b92c94a020710e.stex" ]
 
 [params]
 
