@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Sprout Lands defautlt palette snip.PNG-4996f7ed3fa6c6931ddb61c3883f1077.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://Sprites/Sprout Lands - Sprites - Basic pack/Sprout Lands color pallet/Sprout Lands defautlt palette snip.PNG"
+dest_files=[ "res://.import/Sprout Lands defautlt palette snip.PNG-4996f7ed3fa6c6931ddb61c3883f1077.stex" ]
 
 [params]
 

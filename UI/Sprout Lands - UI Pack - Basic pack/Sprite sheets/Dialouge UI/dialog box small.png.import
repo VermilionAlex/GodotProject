@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/dialog box small.png-79b6d8e8f4b29aaa9eddfda40a4a8cae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://UI/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box small.png"
+dest_files=[ "res://.import/dialog box small.png-79b6d8e8f4b29aaa9eddfda40a4a8cae.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/white icons.png-9722df98555213b4fbbac82a5f09b3d2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://UI/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/white icons.png"
+dest_files=[ "res://.import/white icons.png-9722df98555213b4fbbac82a5f09b3d2.stex" ]
 
 [params]
 
